@@ -1,21 +1,95 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-  <channel>
-    <title>VESTIGAS</title>
-
-    <item>
-      <title>Version 2.0.0</title>
-      <description>Major update: Performance improvements and new features.</description>
+<channel>
+<title>VESTIGAS</title>
+<!--  Template Item  -->
+<!--  <item>
+      <title>Version 1.11.2</title>
+      <description>Minor updates and improvements.</description>
       <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
-      <pubDate>Mon, 06 May 2024 12:00:00 +0000</pubDate>
-      <sparkle:minimumSystemVersion>2.0.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://play.google.com/store/apps/details?id=com.vestigas.vestigas"
-                 sparkle:version="2.0.0"
+      <sparkle:minimumSystemVersion>1.11.2</sparkle:minimumSystemVersion>
+      <enclosure url="https://play.google.com/store/apps/details?id=com.vestigas.vestigas" 
+                 sparkle:version="1.11.2" 
                  sparkle:os="android" />
-      <enclosure url="https://apps.apple.com/de/app/vestigas/id1615371320"
-                 sparkle:version="2.0.0"
+      <enclosure url="https://apps.apple.com/de/app/vestigas/id1615371320" 
+                 sparkle:version="1.11.2" 
                  sparkle:os="ios" />
-    </item>
-  </channel>
+    </item>  -->
+<item>
+<title>Version 1.11.2</title>
+<enclosure url="https://play.google.com/store/apps/details?id=com.vestigas.vestigas" sparkle:version="1.11.2" sparkle:os="android"/>
+<enclosure url="https://apps.apple.com/de/app/vestigas/id1615371320" sparkle:version="1.11.2" sparkle:os="ios"/>
+</item>
+<item>
+<title>Version 1.11.1</title>
+<enclosure url="https://play.google.com/store/apps/details?id=com.vestigas.vestigas" sparkle:version="1.11.1" sparkle:os="android"/>
+<enclosure url="https://apps.apple.com/de/app/vestigas/id1615371320" sparkle:version="1.11.1" sparkle:os="ios"/>
+</item>
+<item>
+<title>Version 1.11.0</title>
+<enclosure url="https://play.google.com/store/apps/details?id=com.vestigas.vestigas" sparkle:version="1.11.0" sparkle:os="android"/>
+<enclosure url="https://apps.apple.com/de/app/vestigas/id1615371320" sparkle:version="1.11.0" sparkle:os="ios"/>
+</item>
+<item>
+<title>Version 1.10.1</title>
+<enclosure url="https://play.google.com/store/apps/details?id=com.vestigas.vestigas" sparkle:version="1.10.1" sparkle:os="android"/>
+<enclosure url="https://apps.apple.com/de/app/vestigas/id1615371320" sparkle:version="1.10.1" sparkle:os="ios"/>
+</item>
+<item>
+<title>Version 1.10.0</title>
+<enclosure url="https://play.google.com/store/apps/details?id=com.vestigas.vestigas" sparkle:version="1.10.0" sparkle:os="android"/>
+<enclosure url="https://apps.apple.com/de/app/vestigas/id1615371320" sparkle:version="1.10.0" sparkle:os="ios"/>
+</item>
+<item>
+<title>Version 1.9.0</title>
+<enclosure url="https://play.google.com/store/apps/details?id=com.vestigas.vestigas" sparkle:version="1.9.0" sparkle:os="android"/>
+<enclosure url="https://apps.apple.com/de/app/vestigas/id1615371320" sparkle:version="1.9.0" sparkle:os="ios"/>
+</item>
+<item>
+<title>Version 1.8.5</title>
+<enclosure url="https://play.google.com/store/apps/details?id=com.vestigas.vestigas" sparkle:version="1.8.5" sparkle:os="android"/>
+<enclosure url="https://apps.apple.com/de/app/vestigas/id1615371320" sparkle:version="1.8.5" sparkle:os="ios"/>
+</item>
+<item>
+<title>Version 1.8.4</title>
+<enclosure url="https://play.google.com/store/apps/details?id=com.vestigas.vestigas" sparkle:version="1.8.4" sparkle:os="android"/>
+<enclosure url="https://apps.apple.com/de/app/vestigas/id1615371320" sparkle:version="1.8.4" sparkle:os="ios"/>
+</item>
+<item>
+<title>Version 1.8.3</title>
+<enclosure url="https://play.google.com/store/apps/details?id=com.vestigas.vestigas" sparkle:version="1.8.3" sparkle:os="android"/>
+<enclosure url="https://apps.apple.com/de/app/vestigas/id1615371320" sparkle:version="1.8.3" sparkle:os="ios"/>
+</item>
+<item>
+<title>Version 1.8.2</title>
+<enclosure url="https://play.google.com/store/apps/details?id=com.vestigas.vestigas" sparkle:version="1.8.2" sparkle:os="android"/>
+<enclosure url="https://apps.apple.com/de/app/vestigas/id1615371320" sparkle:version="1.8.2" sparkle:os="ios"/>
+</item>
+<item>
+<title>Version 1.8.1</title>
+<enclosure url="https://play.google.com/store/apps/details?id=com.vestigas.vestigas" sparkle:version="1.8.1" sparkle:os="android"/>
+<enclosure url="https://apps.apple.com/de/app/vestigas/id1615371320" sparkle:version="1.8.1" sparkle:os="ios"/>
+</item>
+<item>
+<title>Version 1.8.0</title>
+<enclosure url="https://play.google.com/store/apps/details?id=com.vestigas.vestigas" sparkle:version="1.8.0" sparkle:os="android"/>
+<enclosure url="https://apps.apple.com/de/app/vestigas/id1615371320" sparkle:version="1.8.0" sparkle:os="ios"/>
+</item>
+<item>
+<title>Version 1.7.2</title>
+<enclosure url="https://play.google.com/store/apps/details?id=com.vestigas.vestigas" sparkle:version="1.7.2" sparkle:os="android"/>
+<enclosure url="https://apps.apple.com/de/app/vestigas/id1615371320" sparkle:version="1.7.2" sparkle:os="ios"/>
+</item>
+<item>
+<title>Version 1.7.1</title>
+<enclosure url="https://play.google.com/store/apps/details?id=com.vestigas.vestigas" sparkle:version="1.7.1" sparkle:os="android"/>
+<enclosure url="https://apps.apple.com/de/app/vestigas/id1615371320" sparkle:version="1.7.1" sparkle:os="ios"/>
+</item>
+<item>
+<title>Version 1.7.0</title>
+<enclosure url="https://play.google.com/store/apps/details?id=com.vestigas.vestigas" sparkle:version="1.7.0" sparkle:os="android"/>
+<enclosure url="https://apps.apple.com/de/app/vestigas/id1615371320" sparkle:version="1.7.0" sparkle:os="ios"/>
+</item>
+</channel>
 </rss>
